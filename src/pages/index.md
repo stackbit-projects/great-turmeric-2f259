@@ -25,6 +25,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
+        new_window: true
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image

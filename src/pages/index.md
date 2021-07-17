@@ -7,7 +7,7 @@ sections:
       Lorem ipsuoohoho et, consectetur adipiscing elit. Nullam a metus quis
       lorem malesuakk luctus.
     actions:
-      - label: Learn More
+      - label: TESTTTT
         url: /features
         style: primary
       - label: Contact Us

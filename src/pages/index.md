@@ -11,7 +11,7 @@ sections:
         url: /features
         style: primary
       - label: TEST
-        url: '#'
+        url: '#test'
         style: link
         new_window: false
         no_follow: false

@@ -16,7 +16,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: test
+      - label: test1
         url: '#'
         style: link
         new_window: false

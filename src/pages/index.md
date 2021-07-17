@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: This Is A Big Hero TEST
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Lorem ipsuoohoho et, consectetur adipiscing elit. Nullam a metus quis
+      lorem malesuakk luctus.
     actions:
       - label: Learn More
         url: /features

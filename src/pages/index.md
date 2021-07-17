@@ -10,7 +10,7 @@ sections:
       - label: TESTTTT
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: TEST
         url: '#'
         style: link
         new_window: false
